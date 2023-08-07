@@ -10,3 +10,6 @@ This is a simple Python app built using the Tkinter library to demonstrate the f
 -  Python 3.x
 -  Tkinter library (usually comes pre-installed with Python)
 
+## Link to my File
+-  [CODE](https://github.com/IndranjanaChatterjee/Text-Widget/blob/main/text.py)
+
