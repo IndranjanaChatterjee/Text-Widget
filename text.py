@@ -1,10 +1,14 @@
 import tkinter
+
 def gettext():
     print(text.get("1.0","end"))
+
 def inserttext():
     text.insert("1.0","hii")
+
 def deletetext():
     text.delete("1.0","1.1")
+
 window=tkinter.Tk()
 window.title("Text")
 window.geometry('500x500')
